@@ -16,7 +16,6 @@ Soon, I will have completed the first year of my studies at Noroff University an
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LillKonst)  
 
-![GitHub metrics](https://metrics.lecoq.io/LillKonst)  
 
 
 
