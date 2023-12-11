@@ -12,7 +12,11 @@ Soon, I will have completed the first year of my studies at Noroff University an
 - 🔭 I’m currently working on my portfolio 
 - 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me: konstlillkristine@gmail.com 
-- ⚡ Fun fact: I live in a tinyhouse on wheels. 
+- ⚡ Fun fact: I live in a tinyhouse on wheels.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LillKonst)  
+
+![GitHub metrics](https://metrics.lecoq.io/LillKonst)  
 
 
 
