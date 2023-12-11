@@ -1,10 +1,8 @@
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 # Hi there!
 ## My name is Lill and I am a Frontend Development student.
 
-Currently an online student at Noroff University. 
-I'm a creative at heart, but have recently fallen head over heels for the magic of coding. 
+### Currently an online student at Noroff University. 
+### I'm a creative at heart, but have recently fallen head over heels for the magic of coding. 
 
 
 Skills: JS / HTML / CSS
