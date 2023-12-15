@@ -2,8 +2,8 @@
 ### My name is Lill and I am a Frontend Development student.
 Currently an online student at *Noroff University*. 
 
-I'm a creative at heart, but have recently fallen head over heels for the magic of coding. 
-I've been working as a professional dancer and dance teacher for the last 7 years. My self-employed journey has given me a lot of dicipline and taught me to manage my time well. 
+I'm a creative at heart and I've been working as a professional dancer and dance teacher for the last 7 years. I love to move, create and convey stories and emotions on stage.
+I've resently fallen head over heels for the art of coding. Its refreshing to learn new things and challenge myself in new ways. My self-employed journey has given me a lot of dicipline and this has proven helpfull on this new and exciting journey.  
 Soon, I will have completed the first year of my studies at Noroff University and Im excited to learn more and evolve my skills within Frontend Development. 
 
 
