@@ -3,7 +3,7 @@
 Currently an online student at *Noroff University*. 
 
 I'm a creative at heart and have been working as a professional dancer and dance teacher for the last 7 years. I love to move, create and convey stories and emotions on stage.  
-I've resently fallen head over heels for the art of coding. Its refreshing to learn new things and challenge myself in new ways. My self-employed journey has given me a lot of dicipline and this has proven helpfull on this new and exciting journey. Soon, I will have completed the first year of my studies at Noroff University and Im excited to learn more and evolve my skills within Frontend Development. 
+I've resently fallen head over heels for the art of coding. Its refreshing to learn new things and challenge myself in new ways. My self-employed journey has given me a lot of dicipline and this has proven helpfull on this new and exciting journey. Currently a second-year student at Noroff University and Im excited to learn more and evolve my skills within Frontend Development. 
 
 - 🔭 I’m currently working on my portfolio 
 - 🌱 I’m currently learning JavaScript 
