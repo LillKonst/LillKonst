@@ -20,9 +20,4 @@ In December 2024, I graduated from a two-year frontend development program at No
 <a href="https://tailwindcss.com/" target="_blank" rel="noeferrer"> <img src="https://raw.githubusercontent.com/withastro/docs/main/public/logos/tailwind.svg" alt="tailwubd" width="40" height="40" /></a>
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LillKonst)  
-
-
-
-
 
