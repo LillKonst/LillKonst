@@ -2,7 +2,7 @@
 ### My name is Lill and I am a Frontend Developer based in Oslo, Norway
 *Recently graduated from a two year Frontend Development program at Noroff University*. 
 
-Check out my portfolio for more information and the see my projects! https://lillkonst-portfolio.netlify.app/
+Check out my portfolio for more information and the see my projects! https://lillkonst.no
 
 - 🔭 I’m currently looking for a job 
 - 🌱 I’m currently expanding my React knowledge 
